@@ -1,3 +1,8 @@
+---
+title: "Why-a-Bluetooth-Speaker-?"
+date: 2020-08-24
+---
+
 At the start to this Summer, I began thinking about how Icould use my skills 
 as an Electrical Engineering student to interact with my community. I thought
 about the possibility of designing and building consumer electronics that 
